@@ -64,9 +64,3 @@ I'm always open to conversations about AI product leadership, CPO / AI PM / AI T
 - 🌐 Portfolio: **[danarmustafa.com](https://danarmustafa.com)**
 - 💼 LinkedIn: **[Connect with me](https://www.linkedin.com/in/danarmustafa/)**
 - 🧠 AI Strategy: **[digitalstrategy-ai.com](https://digitalstrategy-ai.com)**
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danartechguru&show_icons=true&hide_border=true&count_private=true&theme=default" alt="GitHub stats" height="160"/>
-</p>
